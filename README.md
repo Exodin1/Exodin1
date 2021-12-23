@@ -5,7 +5,7 @@
   Sobre Mim
   
   - Desenvolvedor Front-end
-  - Estudante de desenvolvimento de software
+  - Estudante de desenvolvimento de web
   - Atualmente aprendendo tecnologias Back-end na Trybe
   - Adoro jogar jogos de estratégia e escutar música no tempo livre
 </p>
