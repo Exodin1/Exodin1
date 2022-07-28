@@ -4,7 +4,7 @@
 <p align="left">
   Sobre Mim
   
-  - Desenvolvedor Front-end
+  - Desenvolvedor Full-Stack
   - Estudante de desenvolvimento de web
   - Atualmente aprendendo tecnologias Back-end na Trybe
   - Adoro jogar jogos de estratégia e escutar música no tempo livre
