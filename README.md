@@ -5,8 +5,7 @@
   Sobre Mim
   
   - Desenvolvedor Full-Stack
-  - Estudante de desenvolvimento de web
-  - Atualmente aprendendo tecnologias Back-end na Trybe
+  - Formado em desenvolvimento web e Técnico em Mecatrônica
   - Adoro jogar jogos de estratégia e escutar música no tempo livre
 </p>
 
